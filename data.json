@@ -1,29 +1,36 @@
 {
-    "travel":[
-        {
-            "id":1,
-            "image":"https://demo.kaliumtheme.com/travel/wp-content/uploads/2017/06/sun-umbrella-1.png",
-            "name":"Tour organizer",
-            "category":"Organize your travel plan in easy steps, visit magnificent world attractions ."
-        },
-        {
-            "id":2,
-            "image":"https://demo.kaliumtheme.com/travel/wp-content/uploads/2017/06/departures-1.png",
-            "name":"Book a flight",
-            "category":"Find the best deals for your next flight, high class flight and low cost ticket."
-
-        },
-        {
-            "id":3,
-            "image":"https://demo.kaliumtheme.com/travel/wp-content/uploads/2017/06/map-1-1.png",
-            "name":"Plan your trip",
-            "category":"Set your plan as a single traveler or in a group, our company will be there."
-        },
-        {
-            "id":4,
-            "image":"https://demo.kaliumtheme.com/travel/wp-content/uploads/2017/06/cruise-1.png",
-            "name":"Cruise deals",
-            "category":"Be the captain of your own trip, get the best cruise deals from the system on our site ."
-        }
-    ]
+  "travel": [
+    {
+      "id": 1,
+      "image": "https://demo.kaliumtheme.com/travel/wp-content/uploads/2017/06/sun-umbrella-1.png",
+      "name": "Tour organizer",
+      "category": "Organize your travel plan in easy steps, visit magnificent world attractions ."
+    },
+    {
+      "id": 2,
+      "image": "https://demo.kaliumtheme.com/travel/wp-content/uploads/2017/06/departures-1.png",
+      "name": "Book a flight",
+      "category": "Find the best deals for your next flight, high class flight and low cost ticket."
+    },
+    {
+      "id": 3,
+      "image": "https://demo.kaliumtheme.com/travel/wp-content/uploads/2017/06/map-1-1.png",
+      "name": "Plan your trip",
+      "category": "Set your plan as a single traveler or in a group, our company will be there."
+    },
+    {
+      "id": 4,
+      "image": "https://demo.kaliumtheme.com/travel/wp-content/uploads/2017/06/cruise-1.png",
+      "name": "Cruise deals",
+      "category": "Be the captain of your own trip, get the best cruise deals from the system on our site ."
+    }
+  ],
+  "Favorite": [
+    {
+      "id": 2,
+      "image": "https://demo.kaliumtheme.com/travel/wp-content/uploads/2017/06/departures-1.png",
+      "name": "Book a flight",
+      "category": "Find the best deals for your next flight, high class flight and low cost ticket."
+    }
+  ]
 }

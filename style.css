@@ -1,6 +1,6 @@
 .container {
-  max-width: 1200px;
-  padding: 0px, 20px;
+  max-width: 1500px;
+  padding: 0px, 10px;
   margin: auto;
   width: 100%;
 }
@@ -81,7 +81,7 @@
 
 .sec7 {
   width: 100%;
-  height: 75vh;
+  height: 85vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -92,18 +92,23 @@
   align-items: center;
   gap: 20px;
 }
-.sec7 .sec8 .cart1 {
-  width: 70%;
+.sec7 .sec8 .carttt {
+  width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   gap: 20px;
 }
-.sec7 .sec8 .cart1 .cart2 {
+.sec7 .sec8 .carttt .cart2 {
   width: 50%;
+  height: auto;
+  vertical-align: top;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-.sec7 .sec8 .cart1 .cart3 {
+.sec7 .sec8 .carttt .cart3 {
   width: 70%;
   height: 40vh;
   display: flex;
@@ -112,28 +117,93 @@
   flex-direction: column;
   gap: 5px;
 }
-.sec7 .sec8 .cart1 .cart3 h1 {
-  font-size: 25px;
+.sec7 .sec8 .carttt .cart3 h1 {
+  font-size: 22px;
   font-weight: 300;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
 }
-.sec7 .sec8 .cart1 .cart3 .text1 {
+.sec7 .sec8 .carttt .cart3 .text1 {
   text-align: center;
   font-size: 15px;
   font-weight: 500;
   font-style: normal;
   color: gray;
 }
-.sec7 .sec8 .cart1 .cart3 .del {
+.sec7 .sec8 .carttt .cart3 .del {
   width: 95px;
   height: 30px;
 }
-.sec7 .sec8 .cart1 .cart3 .upd {
+.sec7 .sec8 .carttt .cart3 .upd {
   width: 95px;
   height: 30px;
 }
-.sec7 .sec8 .cart1 .cart3 .fav {
+.sec7 .sec8 .carttt .cart3 .fav {
   width: 95px;
   height: 30px;
+}
+
+.sec9 {
+  width: 100%;
+  height: 200vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: blue;
+}
+.sec9 .sec10 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.sec9 .sec10 .text2 {
+  width: 45%;
+  height: 85vh;
+  background-color: aquamarine;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sec9 .sec10 .text2 .text22 {
+  width: 90%;
+  height: 50vh;
+  background-color: gold;
+}
+.sec9 .sec10 .text2 .text22 h2 {
+  text-align: left;
+  font-size: 32px;
+  font-weight: 500;
+  margin-top: 0px;
+  margin-bottom: 9.5px;
+  color: inherit;
+}
+.sec9 .sec10 .text2 .text22 .text21 {
+  font-size: 20px;
+  color: #666;
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 500;
+}
+.sec9 .sec10 .text2 .text22 .text211 {
+  font-size: 20px;
+  color: #666;
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 500;
+}
+.sec9 .sec10 .picture1 {
+  width: 45%;
+  height: 85vh;
+  background-color: coral;
+}
+.sec9 .sec10 .picture2 {
+  width: 45%;
+  height: 85vh;
+  background-color: chartreuse;
+}
+.sec9 .sec10 .text3 {
+  width: 45%;
+  height: 85vh;
+  background-color: cornflowerblue;
 }/*# sourceMappingURL=style.css.map */
