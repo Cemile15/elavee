@@ -25,12 +25,5 @@
       "category": "Be the captain of your own trip, get the best cruise deals from the system on our site ."
     }
   ],
-  "Favorite": [
-    {
-      "id": 2,
-      "image": "https://demo.kaliumtheme.com/travel/wp-content/uploads/2017/06/departures-1.png",
-      "name": "Book a flight",
-      "category": "Find the best deals for your next flight, high class flight and low cost ticket."
-    }
-  ]
+  "Favorite": []
 }

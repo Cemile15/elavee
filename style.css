@@ -149,7 +149,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: blue;
 }
 .sec9 .sec10 {
   display: flex;
@@ -160,15 +159,12 @@
 .sec9 .sec10 .text2 {
   width: 45%;
   height: 85vh;
-  background-color: aquamarine;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 .sec9 .sec10 .text2 .text22 {
   width: 90%;
-  height: 50vh;
-  background-color: gold;
 }
 .sec9 .sec10 .text2 .text22 h2 {
   text-align: left;
@@ -195,15 +191,165 @@
 .sec9 .sec10 .picture1 {
   width: 45%;
   height: 85vh;
-  background-color: coral;
+}
+.sec9 .sec10 .picture1 img {
+  width: 100%;
+  max-width: none;
+  height: 85vh;
 }
 .sec9 .sec10 .picture2 {
   width: 45%;
   height: 85vh;
-  background-color: chartreuse;
+}
+.sec9 .sec10 .picture2 img {
+  width: 100%;
+  max-width: none;
+  height: 85vh;
 }
 .sec9 .sec10 .text3 {
   width: 45%;
   height: 85vh;
-  background-color: cornflowerblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sec9 .sec10 .text3 .text33 {
+  width: 90%;
+}
+.sec9 .sec10 .text3 .text33 h2 {
+  text-align: left;
+  font-size: 32px;
+  font-weight: 500;
+  margin-top: 0px;
+  margin-bottom: 9.5px;
+  color: inherit;
+}
+.sec9 .sec10 .text3 .text33 .text31 {
+  font-size: 20px;
+  color: #666;
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 500;
+}
+.sec9 .sec10 .text3 .text33 .text311 {
+  font-size: 20px;
+  color: #666;
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 500;
+}
+
+.sec11 {
+  width: 100%;
+  height: 120vh;
+}
+.sec11 .sec12 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+}
+.sec11 .sec12 .basliq {
+  width: 50%;
+  height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.sec11 .sec12 .basliq h2 {
+  text-align: left;
+  font-size: 32px;
+  font-weight: 500;
+  margin-top: 0px;
+  margin-bottom: 9.5px;
+  color: inherit;
+}
+.sec11 .sec12 .basliq .text4 {
+  color: #6d6d6d;
+  font-size: 16px;
+}
+.sec11 .sec12 .sekiller {
+  width: 100%;
+  height: 96vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 25px;
+}
+.sec11 .sec12 .sekiller .picture3 {
+  width: 20%;
+  height: 40vh;
+}
+.sec11 .sec12 .sekiller .picture3 img {
+  width: 100%;
+  height: 40vh;
+}
+.sec11 .sec12 .sekiller .picture4 {
+  width: 20%;
+  height: 40vh;
+}
+.sec11 .sec12 .sekiller .picture4 img {
+  width: 100%;
+  height: 40vh;
+}
+.sec11 .sec12 .sekiller .picture5 {
+  width: 20%;
+  height: 40vh;
+}
+.sec11 .sec12 .sekiller .picture5 img {
+  width: 100%;
+  height: 40vh;
+}
+.sec11 .sec12 .sekiller .picture6 {
+  width: 20%;
+  height: 40vh;
+}
+.sec11 .sec12 .sekiller .picture6 img {
+  width: 100%;
+  height: 40vh;
+}
+.sec11 .sec12 .sekiller .picture7 {
+  width: 20%;
+  height: 40vh;
+}
+.sec11 .sec12 .sekiller .picture7 img {
+  width: 100%;
+  height: 40vh;
+}
+.sec11 .sec12 .sekiller .picture8 {
+  width: 20%;
+  height: 40vh;
+}
+.sec11 .sec12 .sekiller .picture8 img {
+  width: 100%;
+  height: 40vh;
+}
+.sec11 .sec12 .sekiller .picture9 {
+  width: 20%;
+  height: 40vh;
+}
+.sec11 .sec12 .sekiller .picture9 img {
+  width: 100%;
+  height: 40vh;
+}
+.sec11 .sec12 .sekiller .picture10 {
+  width: 20%;
+  height: 40vh;
+}
+.sec11 .sec12 .sekiller .picture10 img {
+  width: 100%;
+  height: 40vh;
+}
+
+.sec13 {
+  width: 100%;
+  height: 50vh;
+  background-color: aqua;
+  background: url(https://demo.kaliumtheme.com/travel/wp-content/uploads/2017/06/amsterdam-1.jpg?id=553);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }/*# sourceMappingURL=style.css.map */

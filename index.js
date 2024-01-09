@@ -1,5 +1,5 @@
 const travel1 =document.querySelector('.sec8');
-fetch(" http://localhost:3000/travel")
+fetch("http://localhost:3000/travel")
 .then(res=>res.json())
 .then(data=>{
     data.forEach(element => {
@@ -14,7 +14,7 @@ fetch(" http://localhost:3000/travel")
             <h1>${element.name}</h1>
             <p class="text1">${element.category}</p>
             <button onclick="deletebox(${element.id})" class="del">Delete</button>
-            <button  class="upd">Update</button>
+            <button onclick="Update(${element.id})" class="upd">Update</button>
             <button onclick="favoritebox(${element.id})" class="fav">Favorite</button>
 
         </div>
@@ -23,7 +23,9 @@ fetch(" http://localhost:3000/travel")
     });
 })
 
-
+function Update (){
+    window.location=`./update.html`
+}
 
 
 function deletebox(id){
@@ -40,6 +42,6 @@ function favoritebox(id){
     axios.get(" http://localhost:3000/travel/"+id)
     .then(res=>{
         axios.post(" http://localhost:3000/Favorite", res.data)
-    })
+    }).then(res=>window.location="./favorite.html")
 }
 
