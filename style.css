@@ -352,4 +352,35 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+}
+
+.sec77 {
+  width: 60%;
+}
+.sec77 .sec88 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sec77 .sec88 #form {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 10px;
+}
+.sec77 .sec88 #form img {
+  width: 150px;
+  height: 150px;
+}
+.sec77 .sec88 #form #submit {
+  width: 40%;
+  height: 5vh;
+  border: none;
+  border-radius: 20px;
+  background-color: #6d6d6d;
+  font-size: 15px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 500;
+  cursor: pointer;
 }/*# sourceMappingURL=style.css.map */

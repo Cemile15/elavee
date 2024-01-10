@@ -7,16 +7,11 @@
       "category": "Organize your travel plan in easy steps, visit magnificent world attractions ."
     },
     {
-      "id": 2,
-      "image": "https://demo.kaliumtheme.com/travel/wp-content/uploads/2017/06/departures-1.png",
-      "name": "Book a flight",
-      "category": "Find the best deals for your next flight, high class flight and low cost ticket."
-    },
-    {
       "id": 3,
-      "image": "https://demo.kaliumtheme.com/travel/wp-content/uploads/2017/06/map-1-1.png",
-      "name": "Plan your trip",
-      "category": "Set your plan as a single traveler or in a group, our company will be there."
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDUiIGhlaWdodD0iMTA1IiB2aWV3Qm94PSIwIDAgMTA1IDEwNSI+DQogIDxnIGlkPSJzZXJ2aWNlczYiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0xMDc2IC0yNzI3KSI+DQogICAgPGNpcmNsZSBpZD0iRWxsaXBzZV80IiBkYXRhLW5hbWU9IkVsbGlwc2UgNCIgY3g9IjUyLjUiIGN5PSI1Mi41IiByPSI1Mi41IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMDc2IDI3MjcpIiBmaWxsPSIjZmZmIi8+DQogICAgPGcgaWQ9IndhbGwtY2xvY2siIHRyYW5zZm9ybT0idHJhbnNsYXRlKDExMDMgMjc1NCkiPg0KICAgICAgPGcgaWQ9Ikdyb3VwXzIwIiBkYXRhLW5hbWU9Ikdyb3VwIDIwIj4NCiAgICAgICAgPGcgaWQ9Ikdyb3VwXzE5IiBkYXRhLW5hbWU9Ikdyb3VwIDE5Ij4NCiAgICAgICAgICA8cGF0aCBpZD0iUGF0aF8zMiIgZGF0YS1uYW1lPSJQYXRoIDMyIiBkPSJNMjUuMzIyLDBBMjUuMzIyLDI1LjMyMiwwLDEsMCw1MC42NDQsMjUuMzIyLDI1LjM1MSwyNS4zNTEsMCwwLDAsMjUuMzIyLDBabTAsNDguNDQyYTIzLjEyLDIzLjEyLDAsMSwxLDIzLjEyLTIzLjEyQTIzLjE0NiwyMy4xNDYsMCwwLDEsMjUuMzIyLDQ4LjQ0MloiIGZpbGw9IiMwYzg3NjAiLz4NCiAgICAgICAgPC9nPg0KICAgICAgPC9nPg0KICAgICAgPGcgaWQ9Ikdyb3VwXzIyIiBkYXRhLW5hbWU9Ikdyb3VwIDIyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyNC4yMjEgNi42MDYpIj4NCiAgICAgICAgPGcgaWQ9Ikdyb3VwXzIxIiBkYXRhLW5hbWU9Ikdyb3VwIDIxIj4NCiAgICAgICAgICA8cGF0aCBpZD0iUGF0aF8zMyIgZGF0YS1uYW1lPSJQYXRoIDMzIiBkPSJNMjQ2LjQ1NSw5MS44NDhsLTkuNTg3LTkuNTg3VjY1LjFhMS4xLDEuMSwwLDEsMC0yLjIsMFY4Mi43MTZhMS4xMDksMS4xMDksMCwwLDAsLjMyMi43NzlMMjQ0LjksOTMuNGExLjEsMS4xLDAsMSwwLDEuNTU5LTEuNTU3WiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTIzNC42NjYgLTY0KSIgZmlsbD0iIzBjODc2MCIvPg0KICAgICAgICA8L2c+DQogICAgICA8L2c+DQogICAgPC9nPg0KICA8L2c+DQo8L3N2Zz4NCg==",
+      "name": "Plan your tuoouiougrip",
+      "category": "Set your plan as a single traveler or in a group, our company will be there.",
+      "cat": "Set your plan as a single traveler or in a group, our company will be there."
     },
     {
       "id": 4,
