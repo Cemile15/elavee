@@ -4,6 +4,11 @@
     margin: auto;
     width: 100%;
 }
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
 .sec1 {
     width: 100%;
@@ -446,7 +451,6 @@
 .sec13 {
     width: 100%;
     height: 50vh;
-    background-color: aqua;
     background: url(https://demo.kaliumtheme.com/travel/wp-content/uploads/2017/06/amsterdam-1.jpg?id=553);
     background-repeat: no-repeat;
     background-size: cover;
